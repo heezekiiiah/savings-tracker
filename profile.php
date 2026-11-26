@@ -129,3 +129,4 @@ $history_query = $conn->query("
 
 </body>
 </html>
+<!-- fixed profile -->
